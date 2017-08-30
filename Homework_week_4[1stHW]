@@ -23,6 +23,6 @@ echo "cat" > commands.txt;
 echo "ls" >> commands.txt
 echo "pwd" >> commands.txt
 
-//Unique string between pets.txt and  commands.txt
+// Unique string between pets.txt and  commands.txt
 grep -f commands.txt pets.txt >> lovelycommands.txt
 
