@@ -1,4 +1,5 @@
-    var x = [1,2,3];
+//15.Write some code to test two arrays for equality using == and ===.  
+var x = [1,2,3];
     var y = [1,2,3];
     var z = y;
 console.log(x==y);
