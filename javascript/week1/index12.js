@@ -1,4 +1,4 @@
-/*13.Create a function that takes two objects as parameters and compares them.
+/*13. Create a function that takes two objects as parameters and compares them.
 You will actually need to write two functions — one 
 that compares with == and one that compares with ===. */
 var obj1 = {
