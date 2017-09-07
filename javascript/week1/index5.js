@@ -1,3 +1,5 @@
+/* 6. Create a function called vehicle, like before,
+but takes another parameter called age, so that vehicle("blue", 1, 5) prints "a blue used car"*/
 function vehicle(color,type, condition){
   if (type == 1){ 
     if (condition == 1){
