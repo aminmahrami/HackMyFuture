@@ -1,3 +1,5 @@
+// 9 . Change the function vehicle to use the list of question 4. So that vehicle("green", 3, 1) prints "a green new caravan".
+
 let vehicles = ["motorbike", "caravan", "bike"];
 
 
