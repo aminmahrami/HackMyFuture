@@ -1,3 +1,5 @@
+/* 10 . Use the list of vehicles to write an advertisement. So that it prints something like:
+"Amazing Joe's Garage, we service cars, motorbikes, caravans and bikes.". (Hint: use a for loop.)*/
 let vehicles = ["motorbike", "caravan", "bike"];
 
 
