@@ -17,7 +17,8 @@ if(x!=y)(console.log('NOT SAME TYPE'));
 let items = ["soap","gel",5,"blade"]; //multiple types in an array
 
 // the new value of x
-x = x % 3;statement is x = x % 3; // new x = 1
+x = x % 3;
+//statement is x = x % 3;>> new x = 1
 
 //compare inifities
 let x = 6/0;
