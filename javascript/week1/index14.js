@@ -15,7 +15,7 @@ function arraysAreIdentical(i, j){
     for (var b = 0, len = i.length; b < len; b++){
         if (i[b] !== j[b]){
             console.log(false);
-        }
+        }   break;
     }
      console.log(true); 
 }
