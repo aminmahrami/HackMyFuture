@@ -6,7 +6,7 @@ Math.round(7.23);// rounded = 7
 
 let colors =["red","green","blue"]; //array called colors with the strings
 //length of the string
-colors.length; // length = 3 
+console.log(colors.length); // length = 3 
 
 //checks the types of two variables
 let x = 9;
