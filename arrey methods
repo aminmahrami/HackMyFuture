@@ -1,0 +1,26 @@
+
+///concat
+function myFunction() {
+    var hege = ["Cecilie", "Lone"];
+    var stale = ["Emil", "Tobias", "Linus"];
+    var children = hege.concat(stale); 
+    document.getElementById("demo").innerHTML = children;
+}
+//// Cecilie,Lone,Emil,Tobias,Linus
+
+///map
+
+var numbers = [1, 5, 10, 15];
+var doubles = numbers.map(function(x) {
+   return x * 2;
+});
+// doubles is now [2, 10, 20, 30]
+// numbers is still [1, 5, 10, 15]
+
+var numbers = [1, 4, 9];
+var roots = numbers.map(Math.sqrt);
+// roots is now [1, 2, 3]
+// numbers is still [1, 4, 9]
+
+
+//
